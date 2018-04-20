@@ -1,5 +1,11 @@
 <?php 
 
-echo "test";
+class test{
+
+  function print(){
+    echo "this is going to print rubbish";
+  }
+
+}
 
 ?>
